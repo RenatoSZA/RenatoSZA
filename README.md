@@ -1,8 +1,8 @@
-#Opa, falaê'! Sou o Renato 👋
+# Opa, falaê'! Sou o Renato 👋
 Estudo no Instituto Federal de Ciências, Tecnologia e Educação do Acre, atualmente matriculado no curso técnico de Informática para Internet.
 Sou apaixonado por aviação, fotografia e arte. Pratico design gráfico como hobbie e odeio JavaScript.
 ##
-#🛠️Ferramentas que uso
+# 🛠️Ferramentas que uso
 - PHP
 - Python
 - C
@@ -12,17 +12,17 @@ Sou apaixonado por aviação, fotografia e arte. Pratico design gráfico como ho
 - MySQLi
 - HTML e CSS
 ##
-#💽Projetos atuais
+# 💽Projetos atuais
 - Decifra
 - Luminous Gym
 - Spell Alley
 ##
-#🎯Objetivos atuais
+# 🎯Objetivos atuais
 - Aprofundar em estrutura de dados
 - Aprofundar em Lua
 - Iniciar o aprendizado em C++ e C#
 ##
-#⁉️Curiosidades
+# ⁉️Curiosidades
 - Amo minha namorada
 - Secretamente gosto de escrever códigos em papel e caneta
 - Tenho uma boa base em Criptografia e Descriptografia
