@@ -11,6 +11,7 @@ Sou apaixonado por aviação, fotografia e arte. Pratico design gráfico como ho
 - JavaScript
 - MySQLi
 - HTML e CSS
+- Lego EV3 Mindstorm
 ##
 # 💽Projetos atuais
 - Decifra
@@ -20,6 +21,8 @@ Sou apaixonado por aviação, fotografia e arte. Pratico design gráfico como ho
 # 🎯Objetivos atuais
 - Aprofundar em estrutura de dados
 - Aprofundar em Lua
+- Aprofundar em Arduino
+- Aperfeiçoar minhas habilidades em modelagem 3D
 - Iniciar o aprendizado em C++ e C#
 ##
 # ⁉️Curiosidades
