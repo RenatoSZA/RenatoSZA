@@ -12,11 +12,13 @@ Sou apaixonado por aviação, fotografia e arte. Pratico design gráfico como ho
 - MySQLi
 - HTML e CSS
 - Lego EV3 Mindstorm
+- Gamemaker Language (code)
 ##
 # 💽Projetos atuais
 - Decifra
 - Luminous Gym
 - Spell Alley
+- Roll the dice, Knight!
 ##
 # 🎯Objetivos atuais
 - Aprofundar em estrutura de dados
